@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1388bb7
 license: GPL-2.0
+name: testgrfplzignore
 type: industry
+url: https://github.com/JimStarluck/testgrfplzignore
 version: 6
